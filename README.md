@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development, Game Development, AI/ML, Video Editing, Photoshop, DSA**
 
-- 📫You can reach me on **bedantagautom2001@gmail.com**
+- 📫You can reach me at **bedantagautom2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
