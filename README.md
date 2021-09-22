@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, myself Bedanta Gautom</h1>
-<h3 align="center">A passionate learner from India who seek to experience and learn new things, quite confident in my leadership and problem solving skills and is motivated to work on new projects and complete tasks that will summon upon me.</h3>
+<h3 align="center">A passionate learner from India who --
+* Seek to experience and learn new things.
+* Quite confident in my leadership and problem solving skills
+* Motivated to work on new projects and complete tasks that will summon upon me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedantagautom&label=Profile%20views&color=0e75b6&style=flat" alt="bedantagautom" /> </p>
 
