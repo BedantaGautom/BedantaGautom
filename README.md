@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedantagautom" alt="bedantagautom" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/BedantaGautomryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **Web Development, Game Development, AI/ML, Video Editing, Photoshop, DSA**
 
 - 📫You can reach to me at **bedantagautom2001@gmail.com**
